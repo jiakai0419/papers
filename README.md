@@ -47,3 +47,6 @@
 ### Black-Box Optimization
 * [Google Vizier: A Service for Black-Box Optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) 2017
 
+### NLP
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 2017
+
