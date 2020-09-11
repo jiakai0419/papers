@@ -32,6 +32,7 @@
 ### Retrieval
 * [Learning Tree-based Deep Model for Recommender Systems](https://arxiv.org/pdf/1801.02294.pdf) 2018
 * [Joint Optimization of Tree-based Index and Deep Model for Recommender Systems](https://arxiv.org/pdf/1902.07565.pdf) 2019
+* [Learning Optimal Tree Models under Beam Search](https://proceedings.icml.cc/static/paper_files/icml/2020/2514-Paper.pdf) 2020
 
 ### LTR
 * [A Short Introduction to Learning to Rank](http://times.cs.uiuc.edu/course/598f14/l2r.pdf) 2011
