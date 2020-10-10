@@ -48,6 +48,8 @@
 * [Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1](https://arxiv.org/pdf/1602.02830.pdf) 2016
 * [LOSS-AWARE BINARIZATION OF DEEP NETWORKS](https://arxiv.org/pdf/1611.01600.pdf) 2017
 * [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/pdf/1603.05279.pdf) 2016
+* [A Review of Binarized Neural Networks](https://www.mdpi.com/2079-9292/8/6/661/htm) 2019
+* [BNN+: IMPROVED BINARY NETWORK TRAINING](https://openreview.net/pdf?id=SJfHg2A5tQ) 2019
 
 ### Meta Learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) 2017
