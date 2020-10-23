@@ -16,6 +16,7 @@
 * [Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/pdf/1509.06461.pdf) 2015
 * [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf) 2015
 * [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf) 2014
+* [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf) 2017
 
 ### Model
 * [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) 2010
