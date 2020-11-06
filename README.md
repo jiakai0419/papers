@@ -18,6 +18,11 @@
 * [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf) 2014
 * [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf) 2017
 * [Trust the Model When It Is Confident: Masked Model-based Actor-Critic](https://arxiv.org/pdf/2010.04893.pdf) 2020
+* [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf) 2016
+* [PRIORITIZED EXPERIENCE REPLAY](https://arxiv.org/pdf/1511.05952.pdf) 2016
+* [PARAMETER SPACE NOISE FOR EXPLORATION](https://arxiv.org/pdf/1706.01905.pdf) 2018
+* [NOISY NETWORKS FOR EXPLORATION](https://arxiv.org/pdf/1706.10295.pdf) 2019
+* [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf) 2017
 
 ### Model
 * [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) 2010
