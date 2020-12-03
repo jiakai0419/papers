@@ -24,6 +24,7 @@
 * [NOISY NETWORKS FOR EXPLORATION](https://arxiv.org/pdf/1706.10295.pdf) 2019
 * [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf) 2017
 * [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/file/0d2b2061826a5df3221116a5085a6052-Paper.pdf) 2020
+* [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/pdf/1705.05363.pdf) 2017
 
 ### Model
 * [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) 2010
