@@ -60,6 +60,7 @@
 * [A Review of Binarized Neural Networks](https://www.mdpi.com/2079-9292/8/6/661/htm) 2019
 * [BNN+: IMPROVED BINARY NETWORK TRAINING](https://openreview.net/pdf?id=SJfHg2A5tQ) 2019
 * [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/pdf/1911.05248.pdf) 2020
+* [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/pdf/1912.05671.pdf) 2020
 
 ### Meta Learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) 2017
