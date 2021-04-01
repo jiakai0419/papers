@@ -67,6 +67,9 @@
 ### Meta Learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) 2017
 
+### Transfer Learning
+* [Domain-Adversarial Training of Neural Networks](https://arxiv.org/pdf/1505.07818.pdf) 2016
+
 ### Black-Box Optimization
 * [Google Vizier: A Service for Black-Box Optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) 2017
 
