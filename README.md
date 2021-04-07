@@ -63,6 +63,7 @@
 * [What Do Compressed Deep Neural Networks Forget?](https://arxiv.org/pdf/1911.05248.pdf) 2020
 * [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/pdf/1912.05671.pdf) 2020
 * [How to Train a Compact Binary Neural Network with High Accuracy?](https://ojs.aaai.org/index.php/AAAI/article/view/10862) 2017
+* [Towards Accurate Binary Convolutional Neural Network](https://arxiv.org/pdf/1711.11294.pdf) 2017
 
 ### Meta Learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) 2017
