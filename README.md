@@ -33,6 +33,9 @@
 * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247.pdf) 2017
 * [DeepFM: An End-to-End Wide & Deep Learning Framework for CTR Prediction](https://arxiv.org/pdf/1804.04950.pdf) 2018
 
+### Activation
+* [Activate or Not: Learning Customized Activation](https://arxiv.org/pdf/2009.04759.pdf) 2021
+
 ### TensorFlow
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](https://arxiv.org/pdf/1603.04467.pdf) 2016
 * [TensorFlow: A System for Large-Scale Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf) 2016
