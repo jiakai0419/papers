@@ -51,7 +51,7 @@
 ### LTR
 * [A Short Introduction to Learning to Rank](http://times.cs.uiuc.edu/course/598f14/l2r.pdf) 2011
 
-### Quantization
+### Model Compression and Acceleration
 * [8-bit Inference with TensorRT](http://on-demand.gputechconf.com/gtc/2017/presentation/s7310-8-bit-inference-with-tensorrt.pdf) 2017
 * [PACT: PARAMETERIZED CLIPPING ACTIVATION FOR QUANTIZED NEURAL NETWORKS](https://arxiv.org/pdf/1805.06085.pdf) 2018
 * [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/pdf/1712.05877.pdf) 2017
@@ -68,6 +68,7 @@
 * [Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/pdf/1912.05671.pdf) 2020
 * [How to Train a Compact Binary Neural Network with High Accuracy?](https://ojs.aaai.org/index.php/AAAI/article/view/10862) 2017
 * [Towards Accurate Binary Convolutional Neural Network](https://arxiv.org/pdf/1711.11294.pdf) 2017
+* [Sparse Tensor Core: Algorithm and Hardware Co-Design for Vector-wise Sparse Neural Networks on Modern GPUs](https://dl.acm.org/doi/pdf/10.1145/3352460.3358269) 2019
 
 ### Meta Learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) 2017
