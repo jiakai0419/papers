@@ -47,6 +47,7 @@
 * [Learning Optimal Tree Models under Beam Search](https://proceedings.icml.cc/static/paper_files/icml/2020/2514-Paper.pdf) 2020
 * [Product quantization for nearest neighbor search](https://lear.inrialpes.fr/pubs/2011/JDS11/jegou_searching_with_quantization.pdf) 2010
 * [Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/6c8a86c981a62b0126a11896b7f6ae0dae4c3566.pdf) 2019
+* [Path-based Deep Network for Candidate Item Matching in Recommenders](https://arxiv.org/pdf/2105.08246.pdf) 2021
 
 ### LTR
 * [A Short Introduction to Learning to Rank](http://times.cs.uiuc.edu/course/598f14/l2r.pdf) 2011
