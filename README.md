@@ -17,14 +17,7 @@
 * [Human-level control through deep reinforcement learning](https://web.stanford.edu/class/psych209/Readings/MnihEtAlHassibis15NatureControlDeepRL.pdf) 2015
 * [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf) 2014
 * [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf) 2017
-* [Trust the Model When It Is Confident: Masked Model-based Actor-Critic](https://arxiv.org/pdf/2010.04893.pdf) 2020
-* [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/pdf/1511.06581.pdf) 2016
-* [PRIORITIZED EXPERIENCE REPLAY](https://arxiv.org/pdf/1511.05952.pdf) 2016
-* [PARAMETER SPACE NOISE FOR EXPLORATION](https://arxiv.org/pdf/1706.01905.pdf) 2018
-* [NOISY NETWORKS FOR EXPLORATION](https://arxiv.org/pdf/1706.10295.pdf) 2019
-* [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf) 2017
 * [Conservative Q-Learning for Offline Reinforcement Learning](https://papers.nips.cc/paper/2020/file/0d2b2061826a5df3221116a5085a6052-Paper.pdf) 2020
-* [Curiosity-driven Exploration by Self-supervised Prediction](https://arxiv.org/pdf/1705.05363.pdf) 2017
 
 ### Model
 * [Factorization Machines](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf) 2010
@@ -59,10 +52,8 @@
 * [Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](https://arxiv.org/pdf/1712.05877.pdf) 2017
 * [DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING](https://arxiv.org/pdf/1510.00149.pdf) 2016
 * [Improving the speed of neural networks on CPUs](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37631.pdf) 2011
-* [A Survey of Model Compression and Acceleration for Deep Neural Networks](https://arxiv.org/pdf/1710.09282.pdf) 2020
 * [BinaryConnect: Training Deep Neural Networks with binary weights during propagations](https://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-binary-weights-during-propagations.pdf) 2015
 * [Binarized Neural Networks: Training Neural Networks with Weights and Activations Constrained to +1 or −1](https://arxiv.org/pdf/1602.02830.pdf) 2016
-* [LOSS-AWARE BINARIZATION OF DEEP NETWORKS](https://arxiv.org/pdf/1611.01600.pdf) 2017
 * [XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks](https://arxiv.org/pdf/1603.05279.pdf) 2016
 * [A Review of Binarized Neural Networks](https://www.mdpi.com/2079-9292/8/6/661/htm) 2019
 * [BNN+: IMPROVED BINARY NETWORK TRAINING](https://openreview.net/pdf?id=SJfHg2A5tQ) 2019
