@@ -25,6 +25,7 @@
 * [Large Scale Distributed Deep Networks](https://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf) 2012
 * [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://arxiv.org/pdf/1703.04247.pdf) 2017
 * [DeepFM: An End-to-End Wide & Deep Learning Framework for CTR Prediction](https://arxiv.org/pdf/1804.04950.pdf) 2018
+* [DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems](https://arxiv.org/pdf/2008.13535.pdf) 2020
 
 ### Activation
 * [Activate or Not: Learning Customized Activation](https://arxiv.org/pdf/2009.04759.pdf) 2021
