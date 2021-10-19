@@ -67,6 +67,8 @@
 * [Sparse Tensor Core: Algorithm and Hardware Co-Design for Vector-wise Sparse Neural Networks on Modern GPUs](https://dl.acm.org/doi/pdf/10.1145/3352460.3358269) 2019
 * [Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/pdf/2106.08962.pdf) 2021
 * [Learning to Embed Categorical Features without Embedding Tables for Recommendation](https://arxiv.org/pdf/2010.10784.pdf) 2021
+* [OPTIMIZING CUDA APPLICATIONS FOR THE VOLTA/TURING ARCHITECTURE](https://on-demand.gputechconf.com/gtc-il/2018/pdf/sil8140-optimizing-cuda-applications-for-the-volta-turing-gpu-architecture.pdf) 2018
+* [Making the Most of Structured Sparsity in the NVIDIA Ampere Architecture](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31552/) 2021
 
 ### Meta Learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) 2017
