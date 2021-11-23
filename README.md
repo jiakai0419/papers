@@ -71,6 +71,9 @@
 * [Making the Most of Structured Sparsity in the NVIDIA Ampere Architecture](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31552/) 2021
 * [Multiplying Matrices Without Multiplying](https://arxiv.org/pdf/2106.10860.pdf) 2021
 
+### Geometry
+* [Hyperbolic Neural Networks](https://arxiv.org/pdf/1805.09112.pdf) 2018
+
 ### Meta Learning
 * [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/pdf/1703.03400.pdf) 2017
 
