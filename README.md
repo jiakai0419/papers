@@ -85,4 +85,5 @@
 
 ### NLP
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 2017
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 2018
 
