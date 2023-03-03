@@ -84,6 +84,7 @@
 * [Google Vizier: A Service for Black-Box Optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) 2017
 
 ### NLP
-* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 2017
-* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 2018
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 2017.06
+* [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) 2018.06
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 2018.10
 
