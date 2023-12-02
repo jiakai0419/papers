@@ -83,8 +83,27 @@
 ### Black-Box Optimization
 * [Google Vizier: A Service for Black-Box Optimization](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46180.pdf) 2017
 
-### NLP
+### LLM
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 2017.06
 * [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) 2018.06
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 2018.10
+* [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416) 2022.10
+* [Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks](https://arxiv.org/abs/2305.14201) 2023.05
+* [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) 2022.01
+* [GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE]() 2023.07
+* [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221) 2022.07
+* [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) 2023.07
+* [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244) 2023.04
+* [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) 2023.05
+* [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487) 2022.05
+* [Challenging BIG-Bench tasks and whether chain-of-thought can solve them](https://arxiv.org/abs/2210.09261) 2022.10
+* [Let’s Verify Step by Step](https://arxiv.org/abs/2305.20050) 2023.05
+* [RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](https://arxiv.org/abs/2304.06767) 2023.04
+* [State of GPT](https://karpathy.ai/stateofgpt.pdf) 2023.05
+* [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707) 2023.06
+* [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267) 2023.09
+* [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259) 2023.08
+* [Preference Ranking Optimization for Human Alignment](https://arxiv.org/abs/2306.17492) 2023.06
+* [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) 2022.03
+* [Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models](https://arxiv.org/abs/2305.14705) 2023.05
 
