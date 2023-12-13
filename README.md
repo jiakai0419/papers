@@ -107,4 +107,5 @@
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) 2022.03
 * [Mixture-of-Experts Meets Instruction Tuning: A Winning Combination for Large Language Models](https://arxiv.org/abs/2305.14705) 2023.05
 * [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/abs/2311.07911) 2023.11
+* [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) 2021.06
 
