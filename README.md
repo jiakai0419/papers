@@ -109,3 +109,4 @@
 * [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/abs/2311.07911) 2023.11
 * [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) 2021.06
 * [Some intuitions about large language models](https://docs.google.com/presentation/d/1hQUd3pF8_2Gr2Obc89LKjmHL0DlH-uof9M0yFVd3FA4/edit#slide=id.g16197112905_0_0) 2023.11
+* [Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846) 2023.03
