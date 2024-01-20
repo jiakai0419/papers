@@ -111,3 +111,4 @@
 * [Some intuitions about large language models](https://docs.google.com/presentation/d/1hQUd3pF8_2Gr2Obc89LKjmHL0DlH-uof9M0yFVd3FA4/edit#slide=id.g16197112905_0_0) 2023.11
 * [Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846) 2023.03
 * [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066.pdf) 2024.01
+* [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5) 2024.01
