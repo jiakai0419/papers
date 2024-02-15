@@ -112,3 +112,4 @@
 * [Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846) 2023.03
 * [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066.pdf) 2024.01
 * [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5) 2024.01
+* [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) 2024.02
