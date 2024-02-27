@@ -113,6 +113,8 @@
 * [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066.pdf) 2024.01
 * [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5) 2024.01
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) 2024.02
+* [Gemini 1.0](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) 2023.12
+* [Gemini 1.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) 2024.02
 
 ### Multimodality
 * [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
