@@ -115,6 +115,7 @@
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) 2024.02
 * [Gemini 1.0](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) 2023.12
 * [Gemini 1.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) 2024.02
+* [Weak-to-strong generalization](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf) 2023.12
 
 ### Multimodality
 * [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
