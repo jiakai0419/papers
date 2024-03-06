@@ -117,6 +117,7 @@
 * [Gemini 1.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) 2024.02
 * [Weak-to-strong generalization](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf) 2023.12
 * [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) 2024.01
+* [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) 2023.05
 
 ### Multimodality
 * [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
