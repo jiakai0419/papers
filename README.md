@@ -118,6 +118,7 @@
 * [Weak-to-strong generalization](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf) 2023.12
 * [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) 2024.01
 * [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) 2023.05
+* [Taken out of context: On measuring situational awareness in LLMs](https://arxiv.org/abs/2309.00667) 2023.09
 
 ### Multimodality
 * [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
