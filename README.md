@@ -119,6 +119,7 @@
 * [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) 2024.01
 * [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) 2023.05
 * [Taken out of context: On measuring situational awareness in LLMs](https://arxiv.org/abs/2309.00667) 2023.09
+* [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935) 2023.12
 
 ### Multimodality
 * [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
