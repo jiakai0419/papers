@@ -121,6 +121,7 @@
 * [Taken out of context: On measuring situational awareness in LLMs](https://arxiv.org/abs/2309.00667) 2023.09
 * [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935) 2023.12
 * [Self-critiquing models for assisting human evaluators](https://arxiv.org/abs/2206.05802) 2022.06
+* [Evolutionary Optimization of Model Merging Recipes](https://sakana.ai/evolutionary-model-merge/) 2024.03
 
 ### Multimodality
 * [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
