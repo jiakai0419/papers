@@ -41,6 +41,7 @@
 * [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935) 2023.12
 * [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5) 2024.01
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) 2024.02
+* [AlphaMath Almost Zero: process Supervision without process](https://arxiv.org/abs/2405.03553) 2024.05
 
 ## Report
 * [GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE]() 2023.07
@@ -65,6 +66,9 @@
 
 ## Merging
 * [Evolutionary Optimization of Model Merging Recipes](https://sakana.ai/evolutionary-model-merge/) 2024.03
+
+## Model Spec 
+* [OpenAI Model Spec 240508](https://cdn.openai.com/spec/model-spec-2024-05-08.html) 2024.05
 
 # Multimodality Papers
 * [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
