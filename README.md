@@ -25,6 +25,7 @@
 * [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267) 2023.09
 * [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) 2024.01
 * [A Survey of Monte Carlo Tree Search Methods](http://www.incompleteideas.net/609%20dropbox/other%20readings%20and%20resources/MCTS-survey.pdf) 2012.03
+* [From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models](https://arxiv.org/abs/2404.15846) 2024.04
 
 ## Scalable Oversight
 * [Self-critiquing models for assisting human evaluators](https://arxiv.org/abs/2206.05802) 2022.06
