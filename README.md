@@ -59,6 +59,7 @@
 * [Some intuitions about large language models](https://docs.google.com/presentation/d/1hQUd3pF8_2Gr2Obc89LKjmHL0DlH-uof9M0yFVd3FA4/edit#slide=id.g16197112905_0_0) 2023.11
 * [MiniCPM：揭示端侧大语言模型的无限潜力](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a) 2024.04
 * [Llama 3 Opens the Second Chapter of the Game of Scale](https://yaofu.notion.site/Apr-2024-Llama-3-Opens-the-Second-Chapter-of-the-Game-of-Scale-efff1c0c185f4008af673b78faf83b61) 2024.04
+* [Successful language model evals](https://www.jasonwei.net/blog/evals) 2024.05
 
 ## Evaluation
 * [Challenging BIG-Bench tasks and whether chain-of-thought can solve them](https://arxiv.org/abs/2210.09261) 2022.10
