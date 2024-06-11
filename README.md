@@ -47,6 +47,7 @@
 * [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5) 2024.01
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) 2024.02
 * [AlphaMath Almost Zero: process Supervision without process](https://arxiv.org/abs/2405.03553) 2024.05
+* [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) 2023.05
 
 ## Report
 * [GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE]() 2023.07
