@@ -65,6 +65,7 @@
 ## Evaluation
 * [Challenging BIG-Bench tasks and whether chain-of-thought can solve them](https://arxiv.org/abs/2210.09261) 2022.10
 * [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/abs/2311.07911) 2023.11
+* [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://arxiv.org/abs/2310.20410) 2023.10
 
 ## Quality
 * [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487) 2022.05
