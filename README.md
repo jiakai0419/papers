@@ -54,6 +54,7 @@
 * [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) 2023.07
 * [Gemini 1.0](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) 2023.12
 * [Gemini 1.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) 2024.02
+* [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931) 2024.06
 
 ## Talk & Blog
 * [State of GPT](https://karpathy.ai/stateofgpt.pdf) 2023.05
