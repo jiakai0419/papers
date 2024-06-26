@@ -1,5 +1,8 @@
 # LLM Papers
 
+## Language
+* [Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w) 2024.06
+
 ## Scaling
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) 2022.03
 * [Predicting Emergent Abilities with Infinite Resolution Evaluation](https://arxiv.org/abs/2310.03262) 2023.10
