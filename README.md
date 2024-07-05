@@ -33,6 +33,7 @@
 * [From Instructions to Constraints: Language Model Alignment with Automatic Constraint Verification](https://arxiv.org/abs/2403.06326) 2024.03
 * [COLLIE: Systematic Construction of Constrained Text Generation Tasks](https://arxiv.org/abs/2307.08689) 2023.07
 * [Conifer: Improving Complex Constrained Instruction-Following Ability of Large Language Models](https://arxiv.org/abs/2404.02823) 2024.04
+* [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://arxiv.org/abs/2406.13542) 2024.06
 
 ## Scalable Oversight
 * [Self-critiquing models for assisting human evaluators](https://arxiv.org/abs/2206.05802) 2022.06
