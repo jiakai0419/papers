@@ -31,7 +31,6 @@
 * [A Survey of Monte Carlo Tree Search Methods](http://www.incompleteideas.net/609%20dropbox/other%20readings%20and%20resources/MCTS-survey.pdf) 2012.03
 * [From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models](https://arxiv.org/abs/2404.15846) 2024.04
 * [From Instructions to Constraints: Language Model Alignment with Automatic Constraint Verification](https://arxiv.org/abs/2403.06326) 2024.03
-* [COLLIE: Systematic Construction of Constrained Text Generation Tasks](https://arxiv.org/abs/2307.08689) 2023.07
 * [Conifer: Improving Complex Constrained Instruction-Following Ability of Large Language Models](https://arxiv.org/abs/2404.02823) 2024.04
 * [Self-play with Execution Feedback: Improving Instruction-following Capabilities of Large Language Models](https://arxiv.org/abs/2406.13542) 2024.06
 
@@ -69,8 +68,9 @@
 
 ## Evaluation
 * [Challenging BIG-Bench tasks and whether chain-of-thought can solve them](https://arxiv.org/abs/2210.09261) 2022.10
-* [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/abs/2311.07911) 2023.11
+* [COLLIE: Systematic Construction of Constrained Text Generation Tasks](https://arxiv.org/abs/2307.08689) 2023.07
 * [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://arxiv.org/abs/2310.20410) 2023.10
+* [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/abs/2311.07911) 2023.11
 * [Beyond Instruction Following: Evaluating Rule Following of Large Language Models](https://arxiv.org/abs/2407.08440) 2024.07
 
 ## Quality
