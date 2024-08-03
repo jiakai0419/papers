@@ -58,6 +58,9 @@
 * [Gemini 1.0](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) 2023.12
 * [Gemini 1.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) 2024.02
 * [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931) 2024.06
+* [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) 2024.07
+* [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) 2024.07
+* [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) 2024.07
 
 ## Talk & Blog
 * [State of GPT](https://karpathy.ai/stateofgpt.pdf) 2023.05
