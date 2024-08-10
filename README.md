@@ -93,4 +93,5 @@
 
 # Multimodality Papers
 * [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
+* [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) 2021.02
 
