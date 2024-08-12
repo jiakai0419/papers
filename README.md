@@ -92,6 +92,7 @@
 * [OpenAI Model Spec 240508](https://cdn.openai.com/spec/model-spec-2024-05-08.html) 2024.05
 
 # Multimodality Papers
-* [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
+* [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) 2020.10
 * [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) 2021.02
+* [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
 
