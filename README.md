@@ -12,6 +12,9 @@
 * [Predicting Emergent Abilities with Infinite Resolution Evaluation](https://arxiv.org/abs/2310.03262) 2023.10
 * [The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987) 2024.05
 
+## Representation
+* [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207) 2023.10
+
 ## Architecture
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) 2017.06
 * [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) 2018.06
