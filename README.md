@@ -48,6 +48,9 @@
 * [Self-critiquing models for assisting human evaluators](https://arxiv.org/abs/2206.05802) 2022.06
 * [Weak-to-strong generalization](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf) 2023.12
 
+## Theorem Proving
+* [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://www.arxiv.org/abs/2408.08152) 2024.08
+
 ## ICL
 * [Larger language models do in-context learning differently](https://arxiv.org/abs/2303.03846) 2023.03
 * [Many-Shot In-Context Learning](https://arxiv.org/pdf/2404.11018v1.pdf) 2024.04
