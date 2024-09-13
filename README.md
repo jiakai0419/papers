@@ -75,6 +75,7 @@
 * [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) 2024.07
 * [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) 2024.07
 * [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) 2024.07
+* [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) 2024.09
 
 ## Talk & Blog
 * [State of GPT](https://karpathy.ai/stateofgpt.pdf) 2023.05
