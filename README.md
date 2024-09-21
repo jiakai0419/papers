@@ -65,6 +65,7 @@
 * [AlphaMath Almost Zero: process Supervision without process](https://arxiv.org/abs/2405.03553) 2024.05
 * [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) 2023.05
 * [Large Language Models Can Learn Temporal Reasoning](https://arxiv.org/abs/2401.06853) 2024.01
+* [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629) 2024.03
 
 ## Report
 * [GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE]() 2023.07
