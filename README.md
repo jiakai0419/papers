@@ -11,6 +11,7 @@
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) 2022.03
 * [Predicting Emergent Abilities with Infinite Resolution Evaluation](https://arxiv.org/abs/2310.03262) 2023.10
 * [The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987) 2024.05
+* [Parables on the Power of Planning in AI: From Poker to Diplomacy](https://www.youtube.com/watch?v=eaAonE58sLU) 2024.05
 
 ## Representation
 * [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207) 2023.10
