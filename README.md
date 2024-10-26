@@ -48,6 +48,7 @@
 ## Scalable Oversight
 * [Self-critiquing models for assisting human evaluators](https://arxiv.org/abs/2206.05802) 2022.06
 * [Weak-to-strong generalization](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf) 2023.12
+* [Prover-Verifier Games improve legibility of LLM outputs](https://arxiv.org/pdf/2407.13692) 2024.07
 
 ## Theorem Proving
 * [DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search](https://www.arxiv.org/abs/2408.08152) 2024.08
