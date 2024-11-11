@@ -69,6 +69,9 @@
 * [Large Language Models Can Learn Temporal Reasoning](https://arxiv.org/abs/2401.06853) 2024.01
 * [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629) 2024.03
 
+## Tool
+* [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) 2021.12
+
 ## Report
 * [GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE]() 2023.07
 * [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) 2023.07
