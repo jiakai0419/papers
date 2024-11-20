@@ -90,6 +90,9 @@
 * [Llama 3 Opens the Second Chapter of the Game of Scale](https://yaofu.notion.site/Apr-2024-Llama-3-Opens-the-Second-Chapter-of-the-Game-of-Scale-efff1c0c185f4008af673b78faf83b61) 2024.04
 * [Successful language model evals](https://www.jasonwei.net/blog/evals) 2024.05
 
+## Physics of Language Models
+* [Physics of Language Models: Part 3.1, Knowledge Storage and Extraction](https://arxiv.org/abs/2309.14316) 2023.09
+
 ## Evaluation
 * [Challenging BIG-Bench tasks and whether chain-of-thought can solve them](https://arxiv.org/abs/2210.09261) 2022.10
 * [COLLIE: Systematic Construction of Constrained Text Generation Tasks](https://arxiv.org/abs/2307.08689) 2023.07
