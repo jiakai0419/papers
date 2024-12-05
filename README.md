@@ -94,6 +94,7 @@
 * [Physics of Language Models: Part 3.1, Knowledge Storage and Extraction](https://arxiv.org/abs/2309.14316) 2023.09
 * [Physics of Language Models: Part 3.2, Knowledge Manipulation](https://arxiv.org/abs/2309.14402) 2023.09
 * [Physics of Language Models: Part 3.1 + 3.2, Knowledge Storage, Extraction and Manipulation](https://www.youtube.com/watch?v=YSHzKmEianc) 2023.11
+* [Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws](https://arxiv.org/abs/2404.05405) 2024.04
 
 ## Evaluation
 * [Challenging BIG-Bench tasks and whether chain-of-thought can solve them](https://arxiv.org/abs/2210.09261) 2022.10
