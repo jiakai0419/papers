@@ -92,6 +92,7 @@
 * [Successful language model evals](https://www.jasonwei.net/blog/evals) 2024.05
 
 ## Physics of Language Models
+* [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
 * [Physics of Language Models: Part 3.1, Knowledge Storage and Extraction](https://arxiv.org/abs/2309.14316) 2023.09
 * [Physics of Language Models: Part 3.2, Knowledge Manipulation](https://arxiv.org/abs/2309.14402) 2023.09
 * [Physics of Language Models: Part 3.1 + 3.2, Knowledge Storage, Extraction and Manipulation](https://www.youtube.com/watch?v=YSHzKmEianc) 2023.11
