@@ -94,6 +94,7 @@
 * [Claude’s Character](https://www.anthropic.com/news/claude-character) 2024.06
 * [Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco) 2025.01
 * [Distinguishing three alignment taxes](https://aligned.substack.com/p/three-alignment-taxes) 2022.12
+* [Killed by LLM](https://r0bk.github.io/killedbyllm/) 20xx.xx
 
 ## Physics of Language Models
 * [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
