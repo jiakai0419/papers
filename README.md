@@ -113,6 +113,7 @@
 * [Beyond Instruction Following: Evaluating Rule Following of Large Language Models](https://arxiv.org/abs/2407.08440) 2024.07
 * [Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning](https://arxiv.org/abs/2406.09170) 2024.06
 * [Introducing SimpleQA](https://openai.com/index/introducing-simpleqa/) 2024.10
+* [Measuring short-form factuality in large language models](https://arxiv.org/abs/2411.04368) 2024.11
 
 ## Quality
 * [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487) 2022.05
