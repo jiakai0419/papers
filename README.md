@@ -13,6 +13,7 @@
 * [The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987) 2024.05
 * [Parables on the Power of Planning in AI: From Poker to Diplomacy](https://www.youtube.com/watch?v=eaAonE58sLU) 2024.05
 * [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) 2025.01
+* [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599) 2025.01
 
 ## Representation
 * [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207) 2023.10
