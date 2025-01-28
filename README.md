@@ -96,7 +96,6 @@
 * [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) 2024.12
 * [Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco) 2025.01
 * [Distinguishing three alignment taxes](https://aligned.substack.com/p/three-alignment-taxes) 2022.12
-* [Killed by LLM](https://r0bk.github.io/killedbyllm/) 20xx.xx
 * [Building effective agents](https://www.anthropic.com/research/building-effective-agents) 2024.12
 
 ## Physics of Language Models
@@ -117,6 +116,7 @@
 * [Introducing SimpleQA](https://openai.com/index/introducing-simpleqa/) 2024.10
 * [Measuring short-form factuality in large language models](https://arxiv.org/abs/2411.04368) 2024.11
 * [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214) 2023.10
+* [Killed by LLM](https://r0bk.github.io/killedbyllm/) 20xx.xx
 
 ## Quality
 * [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487) 2022.05
