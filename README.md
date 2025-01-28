@@ -76,16 +76,11 @@
 * [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) 2021.12
 
 ## Report
-* [GPT-4 Architecture, Infrastructure, Training Dataset, Costs, Vision, MoE]() 2023.07
 * [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) 2023.07
 * [Gemini 1.0](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) 2023.12
 * [Gemini 1.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) 2024.02
 * [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931) 2024.06
-* [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) 2024.07
-* [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) 2024.07
 * [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) 2024.07
-* [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) 2024.09
-* [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) 2024.12
 
 ## Talk & Blog
 * [State of GPT](https://karpathy.ai/stateofgpt.pdf) 2023.05
@@ -95,6 +90,10 @@
 * [Successful language model evals](https://www.jasonwei.net/blog/evals) 2024.05
 * [Three hypotheses on LLM reasoning](https://yaofu.notion.site/Three-hypotheses-on-LLM-reasoning-168e791bf30280a389d4deccbdb2fc83) 2024.12
 * [Claude’s Character](https://www.anthropic.com/news/claude-character) 2024.06
+* [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) 2024.07
+* [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) 2024.07
+* [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) 2024.09
+* [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) 2024.12
 * [Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco) 2025.01
 * [Distinguishing three alignment taxes](https://aligned.substack.com/p/three-alignment-taxes) 2022.12
 * [Killed by LLM](https://r0bk.github.io/killedbyllm/) 20xx.xx
