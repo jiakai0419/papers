@@ -9,12 +9,12 @@
 
 ## Scaling
 * [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) 2022.03
-* [Predicting Emergent Abilities with Infinite Resolution Evaluation](https://arxiv.org/abs/2310.03262) 2023.10
 * [The Platonic Representation Hypothesis](https://arxiv.org/abs/2405.07987) 2024.05
-* [Parables on the Power of Planning in AI: From Poker to Diplomacy](https://www.youtube.com/watch?v=eaAonE58sLU) 2024.05
+* [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) 2024.09.12
+* [Parables on the Power of Planning in AI: From Poker to Diplomacy](https://www.youtube.com/watch?v=eaAonE58sLU) 2024.09.18
+* [Don't teach. Incentivize.](https://www.youtube.com/watch?v=kYWUEV_e2ss) 2024.09.20
 * [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) 2025.01
 * [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599) 2025.01
-* [Don't teach. Incentivize.](https://www.youtube.com/watch?v=kYWUEV_e2ss) 2024.09
 
 ## Representation
 * [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207) 2023.10
@@ -28,7 +28,6 @@
 ## Alignment
 * [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416) 2022.10
 * [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366) 2023.03
-* [RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment](https://arxiv.org/abs/2304.06767) 2023.04
 * [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244) 2023.04
 * [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) 2023.05
 * [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) 2023.05
@@ -36,8 +35,6 @@
 * [Preference Ranking Optimization for Human Alignment](https://arxiv.org/abs/2306.17492) 2023.06
 * [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707) 2023.06
 * [Self-Alignment with Instruction Backtranslation](https://arxiv.org/abs/2308.06259) 2023.08
-* [Taken out of context: On measuring situational awareness in LLMs](https://arxiv.org/abs/2309.00667) 2023.09
-* [RLAIF: Scaling Reinforcement Learning from Human Feedback with AI Feedback](https://arxiv.org/abs/2309.00267) 2023.09
 * [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) 2024.01
 * [A Survey of Monte Carlo Tree Search Methods](http://www.incompleteideas.net/609%20dropbox/other%20readings%20and%20resources/MCTS-survey.pdf) 2012.03
 * [From Complex to Simple: Enhancing Multi-Constraint Complex Instruction Following Ability of Large Language Models](https://arxiv.org/abs/2404.15846) 2024.04
@@ -67,7 +64,6 @@
 * [Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations](https://arxiv.org/abs/2312.08935) 2023.12
 * [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5) 2024.01
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) 2024.02
-* [AlphaMath Almost Zero: process Supervision without process](https://arxiv.org/abs/2405.03553) 2024.05
 * [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601) 2023.05
 * [Large Language Models Can Learn Temporal Reasoning](https://arxiv.org/abs/2401.06853) 2024.01
 * [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629) 2024.03
@@ -79,7 +75,6 @@
 * [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://arxiv.org/abs/2307.09288) 2023.07
 * [Gemini 1.0](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf) 2023.12
 * [Gemini 1.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) 2024.02
-* [DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence](https://arxiv.org/pdf/2406.11931) 2024.06
 * [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) 2024.07
 
 ## Talk & Blog
@@ -88,15 +83,12 @@
 * [MiniCPM：揭示端侧大语言模型的无限潜力](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a) 2024.04
 * [Llama 3 Opens the Second Chapter of the Game of Scale](https://yaofu.notion.site/Apr-2024-Llama-3-Opens-the-Second-Chapter-of-the-Game-of-Scale-efff1c0c185f4008af673b78faf83b61) 2024.04
 * [Successful language model evals](https://www.jasonwei.net/blog/evals) 2024.05
+* [OpenAI Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html) 2024.05
 * [Three hypotheses on LLM reasoning](https://yaofu.notion.site/Three-hypotheses-on-LLM-reasoning-168e791bf30280a389d4deccbdb2fc83) 2024.12
 * [Claude’s Character](https://www.anthropic.com/news/claude-character) 2024.06
-* [GPT-4o mini: advancing cost-efficient intelligence](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/) 2024.07
 * [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) 2024.07
-* [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/) 2024.09
-* [Introducing ChatGPT Pro](https://openai.com/index/introducing-chatgpt-pro/) 2024.12
 * [Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco) 2025.01
 * [Distinguishing three alignment taxes](https://aligned.substack.com/p/three-alignment-taxes) 2022.12
-* [Building effective agents](https://www.anthropic.com/research/building-effective-agents) 2024.12
 
 ## Physics of Language Models
 * [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
@@ -107,6 +99,7 @@
 * [Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws](https://arxiv.org/abs/2404.05405) 2024.04
 
 ## Evaluation
+* [Killed by LLM](https://r0bk.github.io/killedbyllm/) 20xx.xx
 * [Challenging BIG-Bench tasks and whether chain-of-thought can solve them](https://arxiv.org/abs/2210.09261) 2022.10
 * [COLLIE: Systematic Construction of Constrained Text Generation Tasks](https://arxiv.org/abs/2307.08689) 2023.07
 * [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://arxiv.org/abs/2310.20410) 2023.10
@@ -116,7 +109,6 @@
 * [Introducing SimpleQA](https://openai.com/index/introducing-simpleqa/) 2024.10
 * [Measuring short-form factuality in large language models](https://arxiv.org/abs/2411.04368) 2024.11
 * [FreshLLMs: Refreshing Large Language Models with Search Engine Augmentation](https://arxiv.org/abs/2310.03214) 2023.10
-* [Killed by LLM](https://r0bk.github.io/killedbyllm/) 20xx.xx
 
 ## Quality
 * [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487) 2022.05
@@ -126,9 +118,6 @@
 
 ## Merging
 * [Evolutionary Optimization of Model Merging Recipes](https://sakana.ai/evolutionary-model-merge/) 2024.03
-
-## Model Spec 
-* [OpenAI Model Spec 240508](https://cdn.openai.com/spec/model-spec-2024-05-08.html) 2024.05
 
 # Multimodality Papers
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) 2020.10
