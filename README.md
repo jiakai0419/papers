@@ -80,6 +80,7 @@
 ## Talk & Blog
 * [State of GPT](https://karpathy.ai/stateofgpt.pdf) 2023.05
 * [An Observation on Generalization](https://www.youtube.com/live/AKMuA_TVz3A) 2023.08
+* [An Initial Exploration of Theoretical Support for Language Model Data Engineering. Part 1: Pretraining](https://yaofu.notion.site/An-Initial-Exploration-of-Theoretical-Support-for-Language-Model-Data-Engineering-Part-1-Pretraini-dc480d9bf7ff4659afd8c9fb738086eb#5673a54859eb42878098a21f1ba68085) 2023.09
 * [Some intuitions about large language models](https://docs.google.com/presentation/d/1hQUd3pF8_2Gr2Obc89LKjmHL0DlH-uof9M0yFVd3FA4/edit#slide=id.g16197112905_0_0) 2023.11
 * [MiniCPM：揭示端侧大语言模型的无限潜力](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a) 2024.04
 * [Llama 3 Opens the Second Chapter of the Game of Scale](https://yaofu.notion.site/Apr-2024-Llama-3-Opens-the-Second-Chapter-of-the-Game-of-Scale-efff1c0c185f4008af673b78faf83b61) 2024.04
