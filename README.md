@@ -92,12 +92,10 @@
 * [Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco) 2025.01
 
 ## Physics of Language Models
-* [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
-* [Physics of Language Models: Part 2.1, YouTube](https://www.youtube.com/watch?v=bpp6Dz8N2zY) 2024.09
-* [Physics of Language Models: Part 2.2, How to Learn From Mistakes on Grade-School Math Problems](https://arxiv.org/abs/2408.16293) 2024.08
-* [Physics of Language Models: Part 3.1, Knowledge Storage and Extraction](https://arxiv.org/abs/2309.14316) 2023.09
-* [Physics of Language Models: Part 3.2, Knowledge Manipulation](https://arxiv.org/abs/2309.14402) 2023.09
-* [Physics of Language Models: Part 3.1 + 3.2, YouTube](https://www.youtube.com/watch?v=YSHzKmEianc) 2023.11
+* [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07 [YouTube](https://www.youtube.com/watch?v=bpp6Dz8N2zY)
+* [Physics of Language Models: Part 2.2, How to Learn From Mistakes on Grade-School Math Problems](https://arxiv.org/abs/2408.16293) 2024.08 [YouTube](https://www.youtube.com/watch?v=yBgxxvQ76_E)
+* [Physics of Language Models: Part 3.1, Knowledge Storage and Extraction](https://arxiv.org/abs/2309.14316) 2023.09 [YouTube](https://www.youtube.com/watch?v=YSHzKmEianc)
+* [Physics of Language Models: Part 3.2, Knowledge Manipulation](https://arxiv.org/abs/2309.14402) 2023.09 [YouTube](https://www.youtube.com/watch?v=YSHzKmEianc)
 * [Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws](https://arxiv.org/abs/2404.05405) 2024.04
 
 ## Evaluation
