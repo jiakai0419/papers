@@ -92,6 +92,7 @@
 * [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) 2024.07
 * [Three hypotheses on LLM reasoning](https://yaofu.notion.site/Three-hypotheses-on-LLM-reasoning-168e791bf30280a389d4deccbdb2fc83) 2024.12
 * [Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco) 2025.01
+* [Detecting misbehavior in frontier reasoning models](https://openai.com/index/chain-of-thought-monitoring/) 2025.03
 
 ## Physics of Language Models
 * [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
