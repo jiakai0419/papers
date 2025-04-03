@@ -44,6 +44,7 @@
 * [Inverse Constitutional AI: Compressing Preferences into Principles](https://arxiv.org/abs/2406.06560#) 2024.06
 * [Following Length Constraints in Instructions](https://arxiv.org/abs/2406.17744) 2024.06
 * [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387) 2025.02
+* [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) 2022.12
 
 ## Scalable Oversight
 * [Self-critiquing models for assisting human evaluators](https://arxiv.org/abs/2206.05802) 2022.06
