@@ -15,6 +15,7 @@
 * [Don't teach. Incentivize.](https://www.youtube.com/watch?v=kYWUEV_e2ss) 2024.09.20
 * [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) 2025.01
 * [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599) 2025.01
+* [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495) 2025.04
 
 ## Representation
 * [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207) 2023.10
