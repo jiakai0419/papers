@@ -16,6 +16,7 @@
 * [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://github.com/deepseek-ai/DeepSeek-R1/blob/main/DeepSeek_R1.pdf) 2025.01
 * [Kimi k1.5: Scaling Reinforcement Learning with LLMs](https://arxiv.org/abs/2501.12599) 2025.01
 * [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495) 2025.04
+* [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476) 2025.03
 
 ## Representation
 * [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207) 2023.10
