@@ -136,4 +136,5 @@
 * [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://arxiv.org/abs/2010.11929) 2020.10
 * [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) 2021.02
 * [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
+* [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848) 2024.10
 
