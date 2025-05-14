@@ -119,6 +119,7 @@
 * [Introducing SimpleQA](https://openai.com/index/introducing-simpleqa/) 2024.10, [Measuring short-form factuality in large language models](https://arxiv.org/abs/2411.04368) 2024.11
 * [Humanity's Last Exam](https://arxiv.org/abs/2501.14249) 2025.01
 * [BrowseComp: a benchmark for browsing agents](https://openai.com/index/browsecomp/) 2025.04
+* [Introducing HealthBench](https://openai.com/index/healthbench/) 2025.05
 
 ## Quality
 * [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487) 2022.05
