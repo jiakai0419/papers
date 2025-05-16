@@ -114,10 +114,11 @@
 * [FollowBench: A Multi-level Fine-grained Constraints Following Benchmark for Large Language Models](https://arxiv.org/abs/2310.20410) 2023.10
 * [Instruction-Following Evaluation for Large Language Models](https://arxiv.org/abs/2311.07911) 2023.11
 * [GAIA: a benchmark for General AI Assistants](https://arxiv.org/abs/2311.12983) 2023.11
-* [Beyond Instruction Following: Evaluating Rule Following of Large Language Models](https://arxiv.org/abs/2407.08440) 2024.07
 * [Test of Time: A Benchmark for Evaluating LLMs on Temporal Reasoning](https://arxiv.org/abs/2406.09170) 2024.06
+* [Beyond Instruction Following: Evaluating Rule Following of Large Language Models](https://arxiv.org/abs/2407.08440) 2024.07
 * [Introducing SimpleQA](https://openai.com/index/introducing-simpleqa/) 2024.10, [Measuring short-form factuality in large language models](https://arxiv.org/abs/2411.04368) 2024.11
 * [Humanity's Last Exam](https://arxiv.org/abs/2501.14249) 2025.01
+* [MultiChallenge](https://scale.com/leaderboard/multichallenge) 2025.03
 * [BrowseComp: a benchmark for browsing agents](https://openai.com/index/browsecomp/) 2025.04
 * [Introducing HealthBench](https://openai.com/index/healthbench/) 2025.05
 
