@@ -99,6 +99,7 @@
 * [Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco) 2025.01
 * [Detecting misbehavior in frontier reasoning models](https://openai.com/index/chain-of-thought-monitoring/) 2025.03
 * [The Second Half](https://ysymyth.github.io/The-Second-Half/) 2025.04
+* [Spurious Rewards: Rethinking Training Signals in RLVR](https://rethink-rlvr.notion.site/Spurious-Rewards-Rethinking-Training-Signals-in-RLVR-1f4df34dac1880948858f95aeb88872f) 2025.05
 
 ## Physics of Language Models
 * [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
