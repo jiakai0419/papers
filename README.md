@@ -82,6 +82,7 @@
 * [Gemini 1.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf) 2024.02
 * [The Llama 3 Herd of Models](https://arxiv.org/abs/2407.21783) 2024.07
 * [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) 2024.12
+* [Gemini 2.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) 2025.06
 
 ## Talk & Blog
 * [Distinguishing three alignment taxes](https://aligned.substack.com/p/three-alignment-taxes) 2022.12
