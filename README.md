@@ -145,4 +145,5 @@
 * [Video generation models as world simulators](https://openai.com/research/video-generation-models-as-world-simulators) 2024.02
 * [Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2410.13848) 2024.10
 * [Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling](https://arxiv.org/abs/2501.17811) 2025.01
+* [变分自编码器（六）：从几何视角来理解VAE的尝试](https://spaces.ac.cn/archives/7725) 2020.09
 
