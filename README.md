@@ -103,6 +103,7 @@
 * [Spurious Rewards: Rethinking Training Signals in RLVR](https://rethink-rlvr.notion.site/Spurious-Rewards-Rethinking-Training-Signals-in-RLVR-1f4df34dac1880948858f95aeb88872f) 2025.05
 * [Introducing Kimi-Dev: A Strong and Open-source Coding LLM for Issue Resolution](https://moonshotai.github.io/Kimi-Dev/) 2025.06
 * [Kimi-Researcher: End-to-End RL Training for Emerging Agentic Capabilities](https://moonshotai.github.io/Kimi-Researcher/) 2025.06
+* [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/) 2025.07
 
 ## Physics of Language Models
 * [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
