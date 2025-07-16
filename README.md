@@ -18,6 +18,7 @@
 * [Inference-Time Scaling for Generalist Reward Modeling](https://arxiv.org/abs/2504.02495) 2025.04
 * [DAPO: An Open-Source LLM Reinforcement Learning System at Scale](https://arxiv.org/abs/2503.14476) 2025.03
 * [VAPO: Efficient and Reliable Reinforcement Learning for Advanced Reasoning Tasks](https://arxiv.org/abs/2504.05118) 2025.04
+* [AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) 2025.05
 
 ## Representation
 * [Language Models Represent Space and Time](https://arxiv.org/abs/2310.02207) 2023.10
