@@ -107,6 +107,7 @@
 * [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/) 2025.07
 * [Asymmetry of verification and verifier’s law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law) 2025.07
 * [Introducing ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/) 2025.07
+* [解密Qwen3三连发：强化学习新算法GSPO！](https://mp.weixin.qq.com/s/Y5pfNNX4K6k0hfxXr87dkQ) 2025.07
 
 ## Physics of Language Models
 * [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
