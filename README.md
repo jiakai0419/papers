@@ -50,6 +50,9 @@
 * [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387) 2025.02
 * [Constitutional AI: Harmlessness from AI Feedback](https://arxiv.org/abs/2212.08073) 2022.12
 
+## Agentic
+* [WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/abs/2507.02592) 2025.07
+
 ## Scalable Oversight
 * [Self-critiquing models for assisting human evaluators](https://arxiv.org/abs/2206.05802) 2022.06
 * [Weak-to-strong generalization](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf) 2023.12
