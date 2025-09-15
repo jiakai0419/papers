@@ -115,6 +115,7 @@
 * [解密Qwen3三连发：强化学习新算法GSPO！](https://mp.weixin.qq.com/s/Y5pfNNX4K6k0hfxXr87dkQ) 2025.07
 * [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/) 2025.08
 * [Qwen3-Next：迈向更极致的训练推理性价比](https://mp.weixin.qq.com/s/STsWFuEkaoUa8J8v_uDhag) 2025.09
+* [Online RL for Cursor Tab](https://cursor.com/en/blog/tab-rl) 2025.09
 
 ## Physics of Language Models
 * [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
