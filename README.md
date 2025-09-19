@@ -115,6 +115,8 @@
 * [Introducing ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/) 2025.07
 * [解密Qwen3三连发：强化学习新算法GSPO！](https://mp.weixin.qq.com/s/Y5pfNNX4K6k0hfxXr87dkQ) 2025.07
 * [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/) 2025.08
+* [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/) 2025.08
+* [DeepSeek-V3.1 发布，迈向 Agent 时代的第一步](https://mp.weixin.qq.com/s/WUbmBSapVyvxZe6HobD5Qw) 2025.08
 * [Qwen3-Next：迈向更极致的训练推理性价比](https://mp.weixin.qq.com/s/STsWFuEkaoUa8J8v_uDhag) 2025.09
 * [Online RL for Cursor Tab](https://cursor.com/en/blog/tab-rl) 2025.09
 
