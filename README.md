@@ -142,6 +142,7 @@
 * [MultiChallenge](https://scale.com/leaderboard/multichallenge) 2025.03
 * [BrowseComp: a benchmark for browsing agents](https://openai.com/index/browsecomp/) 2025.04
 * [Introducing HealthBench](https://openai.com/index/healthbench/) 2025.05
+* [Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/) 2025.09
 
 ## Quality
 * [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487) 2022.05
