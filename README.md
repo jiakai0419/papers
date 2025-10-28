@@ -127,6 +127,9 @@
 * [Physics of Language Models: Part 3.2, Knowledge Manipulation](https://arxiv.org/abs/2309.14402) 2023.09
 * [Physics of Language Models: Part 3.3, Knowledge Capacity Scaling Laws](https://arxiv.org/abs/2404.05405) 2024.04
 
+## Thinking Machines
+* [On-Policy Distillation](https://thinkingmachines.ai/blog/on-policy-distillation/) 2025.10
+
 ## Evaluation
 * [Killed by LLM](https://r0bk.github.io/killedbyllm/)
 * [Challenging BIG-Bench tasks and whether chain-of-thought can solve them](https://arxiv.org/abs/2210.09261) 2022.10
