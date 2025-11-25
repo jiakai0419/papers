@@ -119,6 +119,7 @@
 * [DeepSeek-V3.1 发布，迈向 Agent 时代的第一步](https://mp.weixin.qq.com/s/WUbmBSapVyvxZe6HobD5Qw) 2025.08
 * [Qwen3-Next：迈向更极致的训练推理性价比](https://mp.weixin.qq.com/s/STsWFuEkaoUa8J8v_uDhag) 2025.09
 * [Online RL for Cursor Tab](https://cursor.com/en/blog/tab-rl) 2025.09
+* [From shortcuts to sabotage: natural emergent misalignment from reward hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) 2025.11
 
 ## Physics of Language Models
 * [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
