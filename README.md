@@ -78,6 +78,7 @@
 * [Large Language Models Can Learn Temporal Reasoning](https://arxiv.org/abs/2401.06853) 2024.01
 * [DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models](https://arxiv.org/abs/2402.03300) 2024.02
 * [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/abs/2403.09629) 2024.03
+* [DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning](https://github.com/deepseek-ai/DeepSeek-Math-V2/blob/main/DeepSeekMath_V2.pdf) 2025.11
 
 ## Tool
 * [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/abs/2112.09332) 2021.12
