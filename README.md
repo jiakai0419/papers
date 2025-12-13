@@ -93,35 +93,15 @@
 * [Gemini 2.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) 2025.06
 
 ## Talk & Blog
-* [Distinguishing three alignment taxes](https://aligned.substack.com/p/three-alignment-taxes) 2022.12
-* [State of GPT](https://karpathy.ai/stateofgpt.pdf) 2023.05
 * [An Observation on Generalization](https://www.youtube.com/live/AKMuA_TVz3A) 2023.08
-* [An Initial Exploration of Theoretical Support for Language Model Data Engineering. Part 1: Pretraining](https://yaofu.notion.site/An-Initial-Exploration-of-Theoretical-Support-for-Language-Model-Data-Engineering-Part-1-Pretraini-dc480d9bf7ff4659afd8c9fb738086eb#5673a54859eb42878098a21f1ba68085) 2023.09
 * [Some intuitions about large language models](https://docs.google.com/presentation/d/1hQUd3pF8_2Gr2Obc89LKjmHL0DlH-uof9M0yFVd3FA4/edit#slide=id.g16197112905_0_0) 2023.11
-* [MiniCPM：揭示端侧大语言模型的无限潜力](https://shengdinghu.notion.site/MiniCPM-c805a17c5c8046398914e47f0542095a) 2024.04
-* [Llama 3 Opens the Second Chapter of the Game of Scale](https://yaofu.notion.site/Apr-2024-Llama-3-Opens-the-Second-Chapter-of-the-Game-of-Scale-efff1c0c185f4008af673b78faf83b61) 2024.04
 * [Successful language model evals](https://www.jasonwei.net/blog/evals) 2024.05
-* [OpenAI Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html) 2024.05
 * [Claude’s Character](https://www.anthropic.com/news/claude-character) 2024.06
-* [AI achieves silver-medal standard solving International Mathematical Olympiad problems](https://deepmind.google/discover/blog/ai-solves-imo-problems-at-silver-medal-level/) 2024.07
 * [Three hypotheses on LLM reasoning](https://yaofu.notion.site/Three-hypotheses-on-LLM-reasoning-168e791bf30280a389d4deccbdb2fc83) 2024.12
-* [Scaling Paradigms for Large Language Models](https://www.youtube.com/watch?v=yhpjpNXJDco) 2025.01
 * [Detecting misbehavior in frontier reasoning models](https://openai.com/index/chain-of-thought-monitoring/) 2025.03
 * [The Second Half](https://ysymyth.github.io/The-Second-Half/) 2025.04
-* [Spurious Rewards: Rethinking Training Signals in RLVR](https://rethink-rlvr.notion.site/Spurious-Rewards-Rethinking-Training-Signals-in-RLVR-1f4df34dac1880948858f95aeb88872f) 2025.05
-* [Introducing Kimi-Dev: A Strong and Open-source Coding LLM for Issue Resolution](https://moonshotai.github.io/Kimi-Dev/) 2025.06
-* [Kimi-Researcher: End-to-End RL Training for Emerging Agentic Capabilities](https://moonshotai.github.io/Kimi-Researcher/) 2025.06
-* [Kimi K2: Open Agentic Intelligence](https://moonshotai.github.io/Kimi-K2/) 2025.07
 * [Asymmetry of verification and verifier’s law](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law) 2025.07
-* [Introducing ChatGPT agent: bridging research and action](https://openai.com/index/introducing-chatgpt-agent/) 2025.07
-* [解密Qwen3三连发：强化学习新算法GSPO！](https://mp.weixin.qq.com/s/Y5pfNNX4K6k0hfxXr87dkQ) 2025.07
-* [Introducing gpt-oss](https://openai.com/index/introducing-gpt-oss/) 2025.08
-* [Genie 3: A new frontier for world models](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/) 2025.08
-* [DeepSeek-V3.1 发布，迈向 Agent 时代的第一步](https://mp.weixin.qq.com/s/WUbmBSapVyvxZe6HobD5Qw) 2025.08
-* [Qwen3-Next：迈向更极致的训练推理性价比](https://mp.weixin.qq.com/s/STsWFuEkaoUa8J8v_uDhag) 2025.09
-* [Online RL for Cursor Tab](https://cursor.com/en/blog/tab-rl) 2025.09
 * [From shortcuts to sabotage: natural emergent misalignment from reward hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) 2025.11
-* [Introducing shopping research in ChatGPT](https://openai.com/index/chatgpt-shopping-research/) 2025.11
 
 ## Physics of Language Models
 * [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
