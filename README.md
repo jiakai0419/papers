@@ -3,6 +3,7 @@
 ## Compression
 * [Compression for AGI](https://www.youtube.com/watch?v=dO4TPJkeaaU) 2023.02
 * [Language Modeling Is Compression](https://arxiv.org/abs/2309.10668) 2023.09
+* [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234) 2025.10
 
 ## Language
 * [Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w) 2024.06
