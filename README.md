@@ -57,6 +57,9 @@
 * [WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent](https://arxiv.org/abs/2508.05748) 2025.08
 * [WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents](https://arxiv.org/abs/2509.13309) 2025.09
 
+## Memory/Personalization/Context
+* [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](https://arxiv.org/abs/2508.19828) 2025.08
+
 ## Scalable Oversight
 * [Self-critiquing models for assisting human evaluators](https://arxiv.org/abs/2206.05802) 2022.06
 * [Weak-to-strong generalization](https://cdn.openai.com/papers/weak-to-strong-generalization.pdf) 2023.12
