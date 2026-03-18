@@ -136,6 +136,7 @@
 * [Introducing HealthBench](https://openai.com/index/healthbench/) 2025.05
 * [Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/) 2025.09
 * [The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution](https://arxiv.org/abs/2510.25726) 2025.10
+* [Learning from context is harder than we thought](https://hy.tencent.com/research/100025?langVersion=zh) 2026.02
 
 ## Quality
 * [Scaling Laws and Interpretability of Learning from Repeated Data](https://arxiv.org/abs/2205.10487) 2022.05
