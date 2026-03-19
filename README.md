@@ -29,6 +29,7 @@
 * [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) 2018.06
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf) 2018.10
 * [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://arxiv.org/pdf/2401.06066.pdf) 2024.01
+* [Attention Residuals](https://arxiv.org/abs/2603.15031) 2026.03
 
 ## Alignment
 * [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416) 2022.10
