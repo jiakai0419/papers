@@ -98,7 +98,7 @@
 * [DeepSeek-V3 Technical Report](https://arxiv.org/abs/2412.19437) 2024.12
 * [Gemini 2.5](https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf) 2025.06
 * [DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models](https://arxiv.org/abs/2512.02556) 2025.12
-* [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf) 2026.12
+* [DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro/blob/main/DeepSeek_V4.pdf) 2026.04
 
 ## Talk & Blog
 * [An Observation on Generalization](https://www.youtube.com/live/AKMuA_TVz3A) 2023.08
