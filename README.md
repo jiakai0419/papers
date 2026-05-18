@@ -112,6 +112,7 @@
 * [From shortcuts to sabotage: natural emergent misalignment from reward hacking](https://www.anthropic.com/research/emergent-misalignment-reward-hacking) 2025.11
 * [How confessions can keep language models honest](https://openai.com/index/how-confessions-can-keep-language-models-honest/) 2025.12
 * [How far does alignment midtraining generalize?](https://alignment.openai.com/how-far-does-alignment-midtraining-generalize/) 2026.03
+* [Model Spec Midtraining: Improving How Alignment Training Generalizes](https://alignment.anthropic.com/2026/msm/) 2026.05
 
 ## Physics of Language Models
 * [Physics of Language Models: Part 2.1, Grade-School Math and the Hidden Reasoning Process](https://arxiv.org/abs/2407.20311) 2024.07
